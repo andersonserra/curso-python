@@ -1,7 +1,6 @@
-# curso-python
-Exemplos básicos códigos python
+## Script Python3 - Paramiko
 
-Garanta seu curso online de python através de nossas redes sociais.
+Código para realizar backup de roteadores da fabricante mikrotik.
 
 Instagram: @awktelecom
 
